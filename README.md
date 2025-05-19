@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi there, I'm Nagashree Murali
 
-<!--
-**nagashreem363/nagashreem363** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a passionate **Data Science student** with a strong foundation in statistics, machine learning, and data-driven problem solving.  
+💡 I enjoy exploring data, uncovering insights, and building models that make real-world impact.
 
-Here are some ideas to get you started:
+---
+## 🔍 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📊 Currently pursuing my degree in **Data Science**
+- 💻 Skilled in Python, ML, Excel, and tools like Pandas, NumPy, Scikit-learn.
+- 🧠 Interested in Machine Learning, Deep Learning, and AI applications
+- 📈 Strong foundation in Statistical analysis, Machine Learning, andMathematical modeling
+- 🌱 Currently learning: **Deep Learning** and **Model Deployment**
+- 🤝 Open to collaborations on data science and analytics projects
+
+---
+## 📫 Connect with me
+
+- 📧 Email: reachnagashree363@gmail.com 
+- 💼 LinkedIn: [https://www.linkedin.com/in/nagashree-murali-26a35731b/)  
+- 🌐 Instagram: [https://www.instagram.com/im_nagashree_/) 
+
+---*
+## 🛠️ Technical Skills
+
+| Category            | Tools & Technologies                            |
+|---------------------|--------------------------------------------------|
+| Languages           | Python, SQL, R                                   |
+| Libraries           | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn |
+| Visualization       |  Excel                         |
+| Databases           | MySQL, SQL Server                 |
+| Machine Learning    | Regression, Classification, Clustering     |
+| Others              | Git, GitHub, Jupyter Notebook, VS Code           |
+
+---
+
