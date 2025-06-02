@@ -8,7 +8,7 @@
 
 - 📊 Currently pursuing my degree in **Data Science**
 - 💻 Skilled in Python, ML, Excel, and tools like Pandas, NumPy, Scikit-learn.
-- 🧠 Interested in Machine Learning, Deep Learning, and AI applications
+- 🧠 Machine Learning, Deep Learning, SQL and AI applications
 - 📈 Strong foundation in Statistical analysis, Machine Learning, andMathematical modeling
 - 🌱 Currently learning: **Deep Learning** and **Model Deployment**
 - 🤝 Open to collaborations on data science and analytics projects
@@ -27,7 +27,7 @@
 |---------------------|--------------------------------------------------|
 | Languages           | Python, SQL, R                                   |
 | Libraries           | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn |
-| Visualization       |  Excel                         |
+| Visualization       |  PowerBi                       |
 | Databases           | MySQL, SQL Server                 |
 | Machine Learning    | Regression, Classification, Clustering     |
 | Others              | Git, GitHub, Jupyter Notebook, VS Code           |
