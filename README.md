@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Nagashree Murali
 
-🎓 I'm a passionate **Data Science student** with a strong foundation in statistics, machine learning, and data-driven problem solving.  
+🎓 I'm a passionate **Data Scientist** with a strong foundation in statistics, machine learning, and data-driven problem solving.  
 💡 I enjoy exploring data, uncovering insights, and building models that make real-world impact.
 
 ---
